@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Smita Powar 👋
 
-<!--
-**its-smita03/its-smita03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Aspiring Developer  
+🌱 Currently learning Web Development, Python & Java  
+🎨 Interested in UI/UX Design  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- MySQL
+- Git & GitHub
+
+## 📌 Projects
+
+- Personal Portfolio Website
+- BCA Study Hub
+- Hangman Game
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/smita-powar-847441422/
