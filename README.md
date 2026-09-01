@@ -5,7 +5,7 @@
 🌱 Currently learning Web Development, Python & Java  
 🎨 Interested in UI/UX Design  
 
-## 🛠️ Skills
+## 🛠️ Skills:
 
 - HTML
 - CSS
@@ -15,12 +15,12 @@
 - MySQL
 - Git & GitHub
 
-## 📌 Projects
+## 📌 Projects:
 
 - Personal Portfolio Website
 - BCA Study Hub
 - Hangman Game
 
-## 📫 Connect with me
+## 📫 Connect with me:
 
 - LinkedIn: https://www.linkedin.com/in/smita-powar-847441422/
