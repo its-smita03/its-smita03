@@ -23,4 +23,4 @@
 
 ## 📫 Connect with me:
 
-- LinkedIn: https://www.linkedin.com/in/smita-powar-847441422/
+- https://www.linkedin.com/in/smitaapowar350/?isSelfProfile=true
